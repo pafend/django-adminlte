@@ -51,7 +51,7 @@ Visit `http://localhost:85` in your browser. The app should be up & running.
 
 ```bash
 $ # Get the code
-$ git clone https://github.com/app-generator/django-adminlte.git
+$ git clone https://github.com/pafend/django-adminlte.git
 $ cd django-adminlte
 $
 $ # Virtualenv modules installation (Unix based systems)
@@ -82,7 +82,7 @@ $ # Access the web app in browser: http://127.0.0.1:8000/
 
 ```bash
 $ # Get the code
-$ git clone https://github.com/app-generator/django-adminlte.git
+$ git clone https://github.com/pafend/django-adminlte.git
 $ cd django-adminlte
 $
 $ # Virtualenv modules installation (Unix based systems)
